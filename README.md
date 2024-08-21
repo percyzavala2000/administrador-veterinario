@@ -32,5 +32,5 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/administrador-veterinario.git
+   git clone https://github.com/percyzavala2000/administrador-veterinario.git
    cd administrador-veterinario
